@@ -9,7 +9,7 @@ function SliderBanner() {
         <div className="slide" style={{ backgroundImage: `url('https://www.wallpapertip.com/wmimgs/92-929182_construction-site-high-resolution.jpg')` }}></div>
       </div>
       <div className="content">
-        <h2>Welcome to Shravani Construction</h2>
+        <h2>Welcome to Shravani Construction Pvt Ltd</h2>
         <p>Your trusted partner in civil construction projects</p>
       </div>
     </div>
