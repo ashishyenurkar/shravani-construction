@@ -1,0 +1,56 @@
+/* Header Styles */
+header {
+    background: linear-gradient(to right, rgb(225, 30, 36), rgb(5, 109, 160), rgb(75, 75, 75)); /* Gradient background with your logo colors */
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    padding: 0px 10px;
+}
+
+.logo img {
+    width: 110px;
+    height: 67px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px; /* Adjust the spacing between menu items */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff; /* White text color for menu items */
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ffa500; /* Hover color */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .logo {
+        margin-bottom: 20px;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+}

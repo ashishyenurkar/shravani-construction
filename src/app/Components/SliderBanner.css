@@ -1,0 +1,75 @@
+/* Home Page Styles */
+.home {
+    position: relative;
+}
+
+.slider {
+    width: 100%;
+    height: 400px; /* Adjust the height of the slider as needed */
+    overflow: hidden;
+    position: relative; /* Ensure relative positioning for absolute positioning of overlay */
+}
+
+.slide {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative; /* Ensure relative positioning for absolute positioning of overlay */
+}
+
+.slide::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent black overlay */
+}
+
+.slide img {
+    width: 100%; /* Ensure image covers the entire slide */
+    height: 100%;
+    object-fit: cover; /* Ensure image covers the entire slide */
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9); /* White text color with opacity */
+    padding: 20px; /* Add padding to prevent text from sticking to edges */
+}
+
+.content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 18px;
+}
+
+/* Hover Effect */
+.content h2:hover,
+.content p:hover {
+    color: rgb(75, 75, 75); /* Change to the third color on hover */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .slide {
+        height: 300px; /* Adjust the height of the slider for smaller screens */
+    }
+
+    .content h2 {
+        font-size: 24px;
+    }
+
+    .content p {
+        font-size: 16px;
+    }
+}

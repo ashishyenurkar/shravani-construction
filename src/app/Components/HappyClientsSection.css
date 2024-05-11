@@ -1,0 +1,34 @@
+.happy-clients-section {
+    text-align: center;
+  }
+  
+  .section-heading {
+    color: rgb(225, 30, 36); /* Red color */
+    margin-bottom: 20px;
+    font-size: 1.8rem; /* Increase font size for the main heading */
+  }
+  
+  .client-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .client-logos img {
+    width: 150px;
+    height: 100px;
+    margin: 10px; /* Adjust margin between client logos */
+    object-fit: contain; /* Ensure the entire logo is visible */
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .client-logos img {
+      width: 100px;
+      height: 70px;
+      margin: 5px; /* Reduce margin between client logos for smaller screens */
+    }
+  }
+  

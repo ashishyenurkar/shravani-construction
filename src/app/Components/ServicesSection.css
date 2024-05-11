@@ -1,0 +1,68 @@
+.services-section {
+    display: grid;
+    grid-template-rows: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .section-heading {
+    text-align: center;
+    color: rgb(225, 30, 36); /* Red color */
+    margin-bottom: 30px;
+  }
+  
+  .service {
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    transition: transform 0.3s ease;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .service img {
+    width: 100%;
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    border-radius: 8px;
+  }
+  
+  .service h3 {
+    margin-top: 15px;
+    font-size: 1.5rem;
+  }
+  
+  .service p {
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  .service img{
+    width: 411px;
+    height: 210px;
+  } 
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .services-section {
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Adjust column width for smaller screens */
+      grid-gap: 10px; /* Reduce gap between items for smaller screens */
+    }
+  
+    .service {
+        padding: 15px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .service h3 {
+      font-size: 1.2rem; /* Reduce font size for heading on smaller screens */
+    }
+    .service img {
+        width: 100%;
+        max-width: 100%; /* Ensure images don't exceed their container width */
+        height: auto; /* Maintain aspect ratio */
+        border-radius: 8px;
+      }
+    .service p {
+      font-size: 0.9rem; /* Reduce font size for paragraph on smaller screens */
+    }
+  }
+  

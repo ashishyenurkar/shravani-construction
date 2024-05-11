@@ -1,0 +1,48 @@
+.completed-projects-section {
+    text-align: center;
+  }
+  
+  .section-heading {
+    color: rgb(225, 30, 36); /* Red color */
+    margin-bottom: 20px;
+    font-size: 1.8rem; /* Increase font size for the main heading */
+  }
+  
+  .project-scroll {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .project {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: left; /* Align text to the left */
+  }
+  
+  .project img {
+    width: 80vw;
+    max-width: 90vw;
+    height: 50vh;
+    border-radius: 8px;
+  }
+  
+  .project p {
+    margin-top: 15px; /* Increase margin top */
+    font-size: 1rem; /* Increase font size for project descriptions */
+    line-height: 1.4; /* Increase line height for better readability */
+    color: #333; /* Darken text color */
+    font-style: italic; /* Make text italic */
+    max-width: 100%; /* Set maximum width for text container */
+    word-wrap: break-word; /* Allow text to wrap within container */
+  }
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .project img {
+      max-width: 250px; /* Adjust maximum width for smaller screens */
+    }
+  
+    .project p {
+      font-size: 0.9rem; /* Decrease font size for smaller screens */
+    }
+  }
+  
