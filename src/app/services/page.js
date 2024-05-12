@@ -16,24 +16,24 @@ function Services() {
         <div className="service-content">
           <h2>Service Title 1</h2>
           <p>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.
 
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.
 
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
+Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.
 
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
+Quisque dapibus orci et erat tincidunt, sd dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.
 
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
+Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.
 
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.
 
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
+Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.
 
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
+Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.
 
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
+Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.
 
           </p>
         </div>
@@ -43,26 +43,26 @@ function Services() {
         <div className="service-content">
           <h2>Service Title 1</h2>
           <p>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
-
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
-
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
-
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
-
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
-
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
-
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
-
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
-
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
-
-          </p>
+      &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.&quot;
+      <br />
+      &quot;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.&quot;
+      <br />
+      &quot;Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.&quot;
+      <br />
+      &quot;Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.&quot;
+      <br />
+      &quot;Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.&quot;
+      <br />
+      &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.&quot;
+      <br />
+      &quot;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.&quot;
+      <br />
+      &quot;Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.&quot;
+      <br />
+      &quot;Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.&quot;
+      <br />
+      &quot;Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.&quot;
+    </p>
         </div>
       </div>
       <div className="service">
@@ -70,26 +70,26 @@ function Services() {
         <div className="service-content">
           <h2>Service Title 1</h2>
           <p>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
-
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
-
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
-
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
-
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
-
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
-
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
-
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
-
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
-
-          </p>
+      &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.&quot;
+      <br />
+      &quot;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.&quot;
+      <br />
+      &quot;Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.&quot;
+      <br />
+      &quot;Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.&quot;
+      <br />
+      &quot;Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.&quot;
+      <br />
+      &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.&quot;
+      <br />
+      &quot;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.&quot;
+      <br />
+      &quot;Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.&quot;
+      <br />
+      &quot;Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.&quot;
+      <br />
+      &quot;Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.&quot;
+    </p>
         </div>
       </div>
       <div className="service">
@@ -97,26 +97,26 @@ function Services() {
         <div className="service-content">
           <h2>Service Title 1</h2>
           <p>
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
-
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
-
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
-
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
-
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis."
-
-"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat."
-
-"Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut."
-
-"Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque."
-
-"Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet."
-
-          </p>
+      &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.&quot;
+      <br />
+      &quot;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.&quot;
+      <br />
+      &quot;Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.&quot;
+      <br />
+      &quot;Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.&quot;
+      <br />
+      &quot;Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.&quot;
+      <br />
+      &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada felis nec justo dictum, at fermentum mi facilisis.&quot;
+      <br />
+      &quot;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed volutpat nisl ac magna eleifend, non ultricies turpis placerat.&quot;
+      <br />
+      &quot;Nulla facilisi. Mauris pretium orci et felis ultrices, ut ultrices libero aliquet. Duis fermentum tristique orci, vel pulvinar nunc placerat ut.&quot;
+      <br />
+      &quot;Quisque dapibus orci et erat tincidunt, sed dapibus magna euismod. Aliquam euismod sem sed mauris efficitur, nec venenatis est scelerisque.&quot;
+      <br />
+      &quot;Aenean vestibulum tellus non lacinia tempor. Integer nec urna ut elit tincidunt lacinia vel vel purus. Curabitur eget magna sed velit finibus laoreet.&quot;
+    </p>
         </div>
       </div>
     </div>
