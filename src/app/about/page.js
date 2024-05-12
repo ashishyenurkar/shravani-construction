@@ -2,6 +2,7 @@ import React from 'react';
 import './AboutUs.css'; // Import your CSS file
 import Header from '../header/page';
 import Footer from '../Footer/page';
+import Image from 'next/image';
 
 
 function AboutUs() {
@@ -10,7 +11,7 @@ function AboutUs() {
     <Header/>
     <div className="about-us-container">
       <div className="owner-info">
-        <img src="https://businessingmag.com/cms/wp-content/uploads/2017/12/small-business-must-have-tools.jpg" alt="Owner" className="owner-image" />
+        <Image  src="https://businessingmag.com/cms/wp-content/uploads/2017/12/small-business-must-have-tools.jpg" alt="Owner" className="owner-image" />
         <div className="owner-details">
           <h2>John Doe</h2>
           <p>Founder & CEO</p>
