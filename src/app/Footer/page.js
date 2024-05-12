@@ -4,6 +4,7 @@ import './Footer.css'; // Import CSS file for styling
 import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import EmailIcon from '@mui/icons-material/Email';
+import Image from 'next/image';
 
 
 function Footer() {
@@ -11,7 +12,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-content">
       <div className="footer-logo">
-        <img className='' src="./sc_logo.jpeg" alt="Company Logo" />
+        <Image  className='' src="./sc_logo.jpeg" alt="Company Logo" />
       </div>
         <div className="footer-info">
           <h3>Contact Us</h3>

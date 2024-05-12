@@ -1,12 +1,13 @@
 import React from 'react';
 import './Header.css'; 
 import Link from 'next/link';
+import Image from 'next/image';
 
 const Header = () => {
     return (
         <header>
             <div className="logo">
-                <img src="./sc_logo.jpeg" alt="Shravani Construction Logo" />
+                <Image  src="./sc_logo.jpeg" alt="Shravani Construction Logo" />
                
             </div>
             <nav>
